@@ -1,0 +1,10 @@
+C:\Users\julia\source\repos\VinoTanquesForm\VinoTanquesForm\bin\Debug\VinoTanquesForm.exe.config
+C:\Users\julia\source\repos\VinoTanquesForm\VinoTanquesForm\bin\Debug\VinoTanquesForm.exe
+C:\Users\julia\source\repos\VinoTanquesForm\VinoTanquesForm\bin\Debug\VinoTanquesForm.pdb
+C:\Users\julia\source\repos\VinoTanquesForm\VinoTanquesForm\obj\Debug\VinoTanquesForm.csproj.AssemblyReference.cache
+C:\Users\julia\source\repos\VinoTanquesForm\VinoTanquesForm\obj\Debug\VinoTanquesForm.Form1.resources
+C:\Users\julia\source\repos\VinoTanquesForm\VinoTanquesForm\obj\Debug\VinoTanquesForm.Properties.Resources.resources
+C:\Users\julia\source\repos\VinoTanquesForm\VinoTanquesForm\obj\Debug\VinoTanquesForm.csproj.GenerateResource.cache
+C:\Users\julia\source\repos\VinoTanquesForm\VinoTanquesForm\obj\Debug\VinoTanquesForm.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\VinoTanquesForm\VinoTanquesForm\obj\Debug\VinoTanquesForm.exe
+C:\Users\julia\source\repos\VinoTanquesForm\VinoTanquesForm\obj\Debug\VinoTanquesForm.pdb
